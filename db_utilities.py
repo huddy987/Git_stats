@@ -1,6 +1,9 @@
 import sqlite3
 
 # Initial setup for DB
+
+# WARNING: Only use this to create a new DB. It may replace a db of
+# the same name if it already exists.
 def setup_db():
     db = sqlite3.connect('data.db')
     cursor = db.cursor()

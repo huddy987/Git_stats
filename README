@@ -1,6 +1,0 @@
-To use:
-    Create a new file called private.py with the following line:
-
-    GITHUB_API_KEY = <YOUR_API_KEY_HERE>
-
-More details to come as I flesh out the DB some more...
