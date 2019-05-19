@@ -1,7 +1,8 @@
 # Git Stats:
 
-Git stats is a Github scraper for the most popular Python, 
-C++, and Javascript projects, which has functionality for saving to a database.
+Git stats is a Github scraper for the most popular Python, C++, and Javascript
+projects that exist on Github! All stats are stored to a database which can be used
+for other purposes later on.
 
 ## To run the scraper:
 Create a new file called private.py with the following line:
